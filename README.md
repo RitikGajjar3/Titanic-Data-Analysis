@@ -20,14 +20,16 @@
 
 <h2>📘 Problem statement:</h2>
 Explore the dataset and explore about the people, both those who survived and those who did not. 
+<br>
 Kaggle Competition Link : https://www.kaggle.com/c/titanic
 
 <h2>📦 Data Overview</h2>
 <p align="center">
-  <img width="800" height="400" src="https://user-images.githubusercontent.com/40620782/82824029-3483fd80-9ec6-11ea-9258-c253661450c3.png">
+  <img width="800" height="400" src="https://user-images.githubusercontent.com/40620782/82832979-5a1b0200-9eda-11ea-83e5-41cb9b3d93ac.jpg">
 </p>
+
 <p align="center">
-  <img width="800" height="400" src="https://user-images.githubusercontent.com/40620782/82824647-4d40e300-9ec7-11ea-94c7-1f824c51472f.png">
+  <img width="800" height="400" src="https://user-images.githubusercontent.com/40620782/82832997-6bfca500-9eda-11ea-8be0-ad09b3dd55b8.jpg">
 </p>
 
 

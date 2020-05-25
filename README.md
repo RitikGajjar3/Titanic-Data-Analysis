@@ -1,4 +1,4 @@
-# <p align="center">Titanic-Data-Analysis</p>
+# <p align="center">Titanic Data Analysis</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/python-v3.6+-blue.svg"
